@@ -4,7 +4,7 @@ end
 division(12/2)
 
 def assign_variable(value)
-  
+  my_name = value
 end
 
 def argue
