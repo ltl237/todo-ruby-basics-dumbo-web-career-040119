@@ -24,7 +24,6 @@ def last_evaluated_value
 end
 
 def pizza_part
-  
   puts "cheese"
   return "cheese"
 end
